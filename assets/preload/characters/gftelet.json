@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF UP"
+		},
+		{
+			"offsets": [
+				10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF DOWN"
+		},
+		{
+			"offsets": [
+				-100,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gf_SexMode_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gftelet",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		39,
+		46
+	],
+	"camera_position": [
+		120,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

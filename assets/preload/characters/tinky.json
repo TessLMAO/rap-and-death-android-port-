@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NTW IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				58
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NTW UP"
+		},
+		{
+			"offsets": [
+				47,
+				-61
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NTW DOWN"
+		},
+		{
+			"offsets": [
+				173,
+				-62
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NTW LEFT"
+		},
+		{
+			"offsets": [
+				9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NTW RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New_TinkyWinky_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		88,
+		160
+	],
+	"camera_position": [
+		200,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

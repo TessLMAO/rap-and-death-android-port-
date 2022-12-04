@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				12
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CH LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-56
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CH DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				87
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CH UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				-1
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CH RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "CH IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Chichachu_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chicha",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		90,
+		143
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

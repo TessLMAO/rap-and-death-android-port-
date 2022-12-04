@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NNB IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NNB UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-188
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NNB DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NNB LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NNB RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New_Newborn_Assets",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "newborn1",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		84,
+		50
+	],
+	"camera_position": [
+		130,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

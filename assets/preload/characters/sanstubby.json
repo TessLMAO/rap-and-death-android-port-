@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SS DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SS IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SS RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sanstional_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sanstubby",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		137,
+		205
+	],
+	"camera_position": [
+		210,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

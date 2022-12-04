@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF LEFT0"
+		},
+		{
+			"offsets": [
+				-15,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF DOWN0"
+		},
+		{
+			"offsets": [
+				-49,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF UP0"
+		},
+		{
+			"offsets": [
+				0,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF DOWN MISS"
+		},
+		{
+			"offsets": [
+				-43,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF UP MISS"
+		},
+		{
+			"offsets": [
+				74,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF IDLE SCARED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE ins",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge",
+			"indices": [],
+			"name": "BF DODGE"
+		},
+		{
+			"offsets": [
+				-7,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BF LEFT SCARED"
+		},
+		{
+			"offsets": [
+				75,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BF RIGHT SCARED"
+		},
+		{
+			"offsets": [
+				-49,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BF UP SCARED"
+		},
+		{
+			"offsets": [
+				-15,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF DOWN SCARED"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Si",
+			"indices": [],
+			"name": "BF CAMERA"
+		},
+		{
+			"offsets": [
+				84,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Flash",
+			"indices": [],
+			"name": "BF CAMERA"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Complex_Furry_Assets-1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bftele",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		370,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
