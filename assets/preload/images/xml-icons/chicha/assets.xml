@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead0000" x="757" y="766" width="722" height="732"/>
+	<SubTexture name="normal0000" x="0" y="0" width="768" height="766"/>
+	<SubTexture name="win0000" x="0" y="766" width="757" height="771"/>
+</TextureAtlas>
