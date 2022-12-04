@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="New_Newborn_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NNB BACK0000" x="5" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0001" x="5" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0002" x="298" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0003" x="298" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0004" x="5" y="376" width="283" height="361"/>
+	<SubTexture name="NNB BACK0005" x="5" y="376" width="283" height="361"/>
+	<SubTexture name="NNB BACK0006" x="298" y="376" width="283" height="361"/>
+	<SubTexture name="NNB BACK0007" x="298" y="376" width="283" height="361"/>
+	<SubTexture name="NNB BACK0008" x="591" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0009" x="591" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0010" x="591" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0011" x="591" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0012" x="591" y="5" width="283" height="361"/>
+	<SubTexture name="NNB BACK0013" x="591" y="5" width="283" height="361"/>
+</TextureAtlas>

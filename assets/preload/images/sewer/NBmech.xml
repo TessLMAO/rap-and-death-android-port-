@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NBmech.png">
+<SubTexture name=" ScreamerNB20000" x="343" y="366" width="342" height="364" frameX="0" frameY="0" frameWidth="342" frameHeight="364" />
+<SubTexture name=" ScreamerNB20001" x="1026" y="364" width="343" height="363" frameX="0" frameY="0" frameWidth="343" frameHeight="363" />
+<SubTexture name=" ScreamerNB20002" x="684" y="0" width="342" height="365" frameX="0" frameY="0" frameWidth="342" frameHeight="365" />
+<SubTexture name=" ScreamerNB10000" x="0" y="0" width="342" height="366" frameX="0" frameY="0" frameWidth="342" frameHeight="366" />
+<SubTexture name=" ScreamerNB10001" x="1026" y="0" width="343" height="364" frameX="0" frameY="0" frameWidth="343" frameHeight="364" />
+<SubTexture name=" ScreamerNB10002" x="0" y="731" width="342" height="363" frameX="0" frameY="0" frameWidth="342" frameHeight="363" />
+<SubTexture name=" ScreamerNB10003" x="0" y="366" width="343" height="365" frameX="0" frameY="0" frameWidth="343" frameHeight="365" />
+<SubTexture name=" ScreamerNB20003" x="342" y="0" width="342" height="366" frameX="0" frameY="0" frameWidth="342" frameHeight="366" />
+</TextureAtlas>
