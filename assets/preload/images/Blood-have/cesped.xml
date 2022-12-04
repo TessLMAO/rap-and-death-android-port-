@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cesped.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cesped instancia 10000" x="0" y="0" width="2137" height="121" frameX="-592" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10001" x="0" y="0" width="2137" height="121" frameX="-542" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10002" x="0" y="0" width="2137" height="121" frameX="-493" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10003" x="0" y="0" width="2137" height="121" frameX="-444" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10004" x="0" y="0" width="2137" height="121" frameX="-394" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10005" x="0" y="0" width="2137" height="121" frameX="-345" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10006" x="0" y="0" width="2137" height="121" frameX="-296" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10007" x="0" y="0" width="2137" height="121" frameX="-246" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10008" x="0" y="0" width="2137" height="121" frameX="-197" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10009" x="0" y="0" width="2137" height="121" frameX="-148" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10010" x="0" y="0" width="2137" height="121" frameX="-98" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10011" x="0" y="0" width="2137" height="121" frameX="-49" frameY="-1" frameWidth="2729" frameHeight="122"/>
+	<SubTexture name="cesped instancia 10012" x="0" y="121" width="2137" height="122" frameX="0" frameY="0" frameWidth="2729" frameHeight="122"/>
+</TextureAtlas>

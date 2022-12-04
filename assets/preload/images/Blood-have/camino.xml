@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="camino.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camino instancia 10000" x="0" y="0" width="1954" height="197" frameX="-627" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10001" x="0" y="0" width="1954" height="197" frameX="-549" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10002" x="0" y="0" width="1954" height="197" frameX="-470" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10003" x="0" y="0" width="1954" height="197" frameX="-392" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10004" x="0" y="0" width="1954" height="197" frameX="-313" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10005" x="0" y="0" width="1954" height="197" frameX="-235" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10006" x="0" y="0" width="1954" height="197" frameX="-157" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10007" x="0" y="0" width="1954" height="197" frameX="-78" frameY="0" frameWidth="2581" frameHeight="197"/>
+	<SubTexture name="camino instancia 10008" x="0" y="197" width="1953" height="197" frameX="0" frameY="0" frameWidth="2581" frameHeight="197"/>
+</TextureAtlas>

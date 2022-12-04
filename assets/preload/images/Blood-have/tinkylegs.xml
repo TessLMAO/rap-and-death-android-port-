@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tinkylegs.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="legsidle 30000" x="0" y="0" width="401" height="206" frameX="-32" frameY="-32" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30001" x="0" y="0" width="401" height="206" frameX="-32" frameY="-32" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30002" x="401" y="0" width="359" height="247" frameX="-48" frameY="-32" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30003" x="760" y="0" width="302" height="257" frameX="-66" frameY="-44" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30004" x="760" y="0" width="302" height="257" frameX="-66" frameY="-44" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30005" x="1062" y="0" width="288" height="248" frameX="-74" frameY="-45" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30006" x="1350" y="0" width="258" height="233" frameX="-92" frameY="-42" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30007" x="1350" y="0" width="258" height="233" frameX="-92" frameY="-42" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30008" x="1608" y="0" width="288" height="234" frameX="-68" frameY="-37" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30009" x="0" y="257" width="391" height="253" frameX="0" frameY="0" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30010" x="0" y="257" width="391" height="253" frameX="0" frameY="0" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30011" x="391" y="257" width="369" height="255" frameX="-19" frameY="-9" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30012" x="760" y="257" width="302" height="227" frameX="-58" frameY="-38" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30013" x="760" y="257" width="302" height="227" frameX="-58" frameY="-38" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30014" x="1062" y="257" width="250" height="232" frameX="-91" frameY="-50" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30015" x="1312" y="257" width="248" height="232" frameX="-91" frameY="-46" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30016" x="1312" y="257" width="248" height="232" frameX="-91" frameY="-46" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30017" x="1560" y="257" width="256" height="233" frameX="-92" frameY="-45" frameWidth="433" frameHeight="301"/>
+	<SubTexture name="legsidle 30018" x="0" y="512" width="319" height="235" frameX="-56" frameY="-35" frameWidth="433" frameHeight="301"/>
+</TextureAtlas>
