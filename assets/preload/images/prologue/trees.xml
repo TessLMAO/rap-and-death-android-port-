@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="threes.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="treesidle instancia 10000" x="0" y="0" width="2833" height="843" frameX="-777" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10001" x="0" y="0" width="2833" height="843" frameX="-713" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10002" x="0" y="0" width="2833" height="843" frameX="-648" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10003" x="0" y="0" width="2833" height="843" frameX="-583" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10004" x="0" y="0" width="2833" height="843" frameX="-518" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10005" x="0" y="0" width="2833" height="843" frameX="-454" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10006" x="0" y="0" width="2833" height="843" frameX="-389" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10007" x="0" y="0" width="2833" height="843" frameX="-324" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10008" x="0" y="0" width="2833" height="843" frameX="-259" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10009" x="0" y="0" width="2833" height="843" frameX="-195" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10010" x="0" y="843" width="2833" height="843" frameX="-130" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10011" x="0" y="0" width="2833" height="843" frameX="-65" frameY="0" frameWidth="3610" frameHeight="843"/>
+	<SubTexture name="treesidle instancia 10012" x="0" y="1686" width="2834" height="843" frameX="0" frameY="0" frameWidth="3610" frameHeight="843"/>
+</TextureAtlas>
