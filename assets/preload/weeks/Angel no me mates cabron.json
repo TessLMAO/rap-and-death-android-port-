@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tubi",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"desolation-old",
+			"newborn1",
+			[
+				118,
+				84,
+				50
+			]
+		],
+		[
+			"goodbye-new-world-old",
+			"newborn1",
+			[
+				118,
+				84,
+				50
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

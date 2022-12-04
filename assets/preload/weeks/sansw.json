@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"bad-jokes",
+			"sanstubby",
+			[
+				134,
+				137,
+				205
+			]
+		],
+		[
+			"magistral",
+			"sanstubby",
+			[
+				134,
+				137,
+				205
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

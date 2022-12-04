@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["empanadas", "chicha", [82, 90, 143]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "tubi",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tubi",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"finale",
+			"tinky",
+			[
+				121,
+				88,
+				160
+			]
+		],
+		[
+			"destiny",
+			"tinky",
+			[
+				121,
+				88,
+				160
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

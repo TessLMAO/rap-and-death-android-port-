@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"nightshift",
+			"tinky-animatronic",
+			[
+				70,
+				48,
+				103
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tubi",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "One funk in teletubbie-land",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		70,
+		48,
+		103
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
