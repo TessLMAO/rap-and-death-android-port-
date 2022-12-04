@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sanstional_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- SPRITE OPTIMIZED BY ELNUBI 123 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SS DOWN0000" x="2475" y="0" width="596" height="811"/>
+	<SubTexture name="SS DOWN0001" x="2475" y="0" width="596" height="811"/>
+	<SubTexture name="SS DOWN0002" x="2384" y="878" width="596" height="811"/>
+	<SubTexture name="SS DOWN0003" x="2384" y="878" width="596" height="811"/>
+	<SubTexture name="SS DOWN0004" x="2030" y="1783" width="596" height="811"/>
+	<SubTexture name="SS DOWN0005" x="2030" y="1783" width="596" height="811"/>
+	<SubTexture name="SS DOWN0006" x="2030" y="1783" width="596" height="811"/>
+	<SubTexture name="SS DOWN0007" x="2030" y="1783" width="596" height="811"/>
+	<SubTexture name="SS IDLE0000" x="0" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0001" x="0" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0002" x="495" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0003" x="495" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0004" x="990" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0005" x="990" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0006" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0007" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0008" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0009" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0010" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0011" x="1485" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0012" x="1980" y="0" width="495" height="880"/>
+	<SubTexture name="SS IDLE0013" x="1980" y="0" width="495" height="880"/>
+	<SubTexture name="SS LEFT0000" x="1132" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0001" x="1132" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0002" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0003" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0004" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0005" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0006" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS LEFT0007" x="1758" y="880" width="626" height="903"/>
+	<SubTexture name="SS RIGHT0000" x="0" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0001" x="0" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0002" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0003" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0004" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0005" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0006" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS RIGHT0007" x="566" y="880" width="566" height="877"/>
+	<SubTexture name="SS UP0000" x="0" y="1757" width="699" height="946"/>
+	<SubTexture name="SS UP0001" x="0" y="1757" width="699" height="946"/>
+	<SubTexture name="SS UP0002" x="699" y="1783" width="674" height="946" frameX="-25" frameY="0" frameWidth="699" frameHeight="946"/>
+	<SubTexture name="SS UP0003" x="699" y="1783" width="674" height="946" frameX="-25" frameY="0" frameWidth="699" frameHeight="946"/>
+	<SubTexture name="SS UP0004" x="1373" y="1783" width="657" height="937" frameX="-42" frameY="-9" frameWidth="699" frameHeight="946"/>
+	<SubTexture name="SS UP0005" x="1373" y="1783" width="657" height="937" frameX="-42" frameY="-9" frameWidth="699" frameHeight="946"/>
+	<SubTexture name="SS UP0006" x="1373" y="1783" width="657" height="937" frameX="-42" frameY="-9" frameWidth="699" frameHeight="946"/>
+	<SubTexture name="SS UP0007" x="1373" y="1783" width="657" height="937" frameX="-42" frameY="-9" frameWidth="699" frameHeight="946"/>
+</TextureAtlas>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="New_TinkyWinky_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- SPRITE OPTIMIZED BY ELNUBI 123 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NTW DOWN0000" x="1696" y="0" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0001" x="1696" y="0" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0002" x="2280" y="0" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0003" x="2280" y="0" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0004" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0005" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0006" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0007" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0008" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0009" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0010" x="1722" y="809 " width="584" height="809"/>
+	<SubTexture name="NTW DOWN0011" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0012" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW DOWN0013" x="1722" y="809" width="584" height="809"/>
+	<SubTexture name="NTW IDLE0000" x="0" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0001" x="0" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0002" x="424" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0003" x="424" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0004" x="848" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0005" x="848" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0006" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0007" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0008" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0009" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0010" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0011" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0012" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW IDLE0013" x="1272" y="0" width="424" height="846"/>
+	<SubTexture name="NTW LEFT0000" x="0" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0001" x="0" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0002" x="654" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0003" x="654" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0004" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0005" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0006" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0007" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0008" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0009" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0010" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0011" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0012" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW LEFT0013" x="1308" y="1707" width="654" height="772"/>
+	<SubTexture name="NTW RIGHT0000" x="0" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0001" x="0" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0002" x="574" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0003" x="574" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0004" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0005" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0006" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0007" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0008" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0009" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0010" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0011" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0012" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW RIGHT0013" x="1148" y="846" width="574" height="861"/>
+	<SubTexture name="NTW UP0000" x="2306" y="809" width="444" height="901"/>
+	<SubTexture name="NTW UP0001" x="2306" y="809" width="444" height="901"/>
+	<SubTexture name="NTW UP0002" x="1962" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0003" x="1962" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0004" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0005" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0006" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0007" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0008" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0009" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0010" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0011" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0012" x="2406" y="1710" width="444" height="901"/>
+	<SubTexture name="NTW UP0013" x="2406" y="1710" width="444" height="901"/>
+</TextureAtlas>

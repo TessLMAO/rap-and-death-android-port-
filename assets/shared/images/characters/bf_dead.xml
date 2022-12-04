@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf dead.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf dead0000" x="0" y="0" width="645" height="656" frameX="-46" frameY="-58" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0001" x="0" y="0" width="645" height="656" frameX="-46" frameY="-58" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0002" x="645" y="0" width="737" height="749"/>
+	<SubTexture name="bf dead0003" x="0" y="749" width="737" height="749"/>
+	<SubTexture name="bf dead0004" x="737" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0005" x="737" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0006" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0007" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0008" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0009" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0010" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0011" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0012" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+	<SubTexture name="bf dead0013" x="1383" y="749" width="646" height="658" frameX="-46" frameY="-56" frameWidth="737" frameHeight="749"/>
+</TextureAtlas>

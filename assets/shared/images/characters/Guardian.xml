@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guardian.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- SPRITE OPTIMIZED BY ELNUBI 123 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Guardian_down0000" x="0" y="0" width="692" height="866" frameX="0" frameY="0" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0001" x="0" y="0" width="692" height="866" frameX="0" frameY="0" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0002" x="692" y="0" width="692" height="866" frameX="4" frameY="3" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0003" x="692" y="0" width="692" height="866" frameX="4" frameY="3" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0004" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0005" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0006" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0007" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0008" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_down0009" x="1383" y="0" width="692" height="866" frameX="-3" frameY="9" frameWidth="1434" frameHeight="1684"/>
+	<SubTexture name="Guardian_idle0000" x="2075" y="0" width="692" height="901" frameX="0" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0001" x="2075" y="0" width="692" height="901" frameX="0" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0002" x="2767" y="0" width="692" height="901" frameX="12" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0003" x="2767" y="0" width="692" height="901" frameX="12" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0004" x="0" y="910" width="683" height="901" frameX="10" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0005" x="0" y="910" width="683" height="901" frameX="10" frameY="0" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0006" x="634" y="910" width="683" height="901" frameX="49" frameY="-18" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0007" x="634" y="910" width="683" height="901" frameX="49" frameY="-18" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0008" x="1277" y="910" width="639" height="901" frameX="46" frameY="-7" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0009" x="1277" y="910" width="639" height="901" frameX="46" frameY="-7" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0010" x="1277" y="910" width="639" height="901" frameX="46" frameY="-7" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_idle0011" x="1277" y="910" width="639" height="901" frameX="46" frameY="-7" frameWidth="1497" frameHeight="1860"/>
+	<SubTexture name="Guardian_left0000" x="1902" y="910" width="653" height="901" frameX="0" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0001" x="1902" y="910" width="653" height="901" frameX="0" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0002" x="2544" y="910" width="639" height="901" frameX="-20" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0003" x="2544" y="910" width="639" height="901" frameX="-20" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0004" x="3164" y="910" width="639" height="901" frameX="-11" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0005" x="3164" y="910" width="639" height="901" frameX="-11" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0006" x="3164" y="910" width="639" height="901" frameX="-11" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_left0007" x="3164" y="910" width="639" height="901" frameX="-11" frameY="0" frameWidth="1319" frameHeight="1768"/>
+	<SubTexture name="Guardian_right0000" x="0" y="1815" width="653" height="901" frameX="0" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0001" x="0" y="1815" width="653" height="901" frameX="0" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0002" x="655" y="1815" width="653" height="901" frameX="15" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0003" x="655" y="1815" width="653" height="901" frameX="15" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0004" x="1300" y="1815" width="653" height="901" frameX="12" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0005" x="1300" y="1815" width="653" height="901" frameX="12" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0006" x="1300" y="1815" width="653" height="901" frameX="12" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_right0007" x="1300" y="1815" width="653" height="901" frameX="12" frameY="0" frameWidth="1394" frameHeight="1754"/>
+	<SubTexture name="Guardian_up0000" x="1945" y="1821" width="653" height="945"/>
+	<SubTexture name="Guardian_up0001" x="1945" y="1821" width="653" height="945"/>
+	<SubTexture name="Guardian_up0002" x="2575" y="1821" width="653" height="945" frameX="4" frameY="-19" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Guardian_up0003" x="2575" y="1821" width="653" height="945" frameX="4" frameY="-19" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Guardian_up0004" x="3208" y="1795" width="653" height="945" frameX="0" frameY="0" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Guardian_up0005" x="3208" y="1795" width="653" height="945" frameX="0" frameY="0" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Guardian_up0006" x="3208" y="1795" width="653" height="945" frameX="0" frameY="0" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Guardian_up0007" x="3208" y="1795" width="653" height="945" frameX="0" frameY="0" frameWidth="1331" frameHeight="1957"/>
+	<SubTexture name="Oh no0000" x="0" y="2711" width="635" height="901" frameX="-27" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0001" x="613" y="2722" width="612" height="901" frameX="0" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0002" x="613" y="2722" width="612" height="901" frameX="0" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0003" x="1201" y="2757" width="612" height="901" frameX="-29" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0004" x="1201" y="2757" width="612" height="901" frameX="-29" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0005" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0006" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0007" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0008" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0009" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0010" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0011" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0012" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0013" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0014" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0015" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0016" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0017" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0018" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0019" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0020" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0021" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+	<SubTexture name="Oh no0022" x="1790" y="2766" width="612" height="901" frameX="-26" frameY="0" frameWidth="1291" frameHeight="1844"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tillina_Insana.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- SPRITE OPTIMIZED BY ELNUBI 123 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="INSANE GF IDLE0000" x="0" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0001" x="453" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0002" x="453" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0003" x="906" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0004" x="906" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0005" x="1359" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0006" x="1812" y="0" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0007" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0008" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0009" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0010" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0011" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0012" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF IDLE0013" x="0" y="675" width="453" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0000" x="453" y="675" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0001" x="1162" y="675" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0002" x="0" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0003" x="709" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0004" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0005" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0006" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0007" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0008" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0009" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0010" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0011" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0012" x="1418" y="1350" width="709" height="675"/>
+	<SubTexture name="INSANE GF SHOOT0013" x="1418" y="1350" width="709" height="675"/>
+</TextureAtlas>

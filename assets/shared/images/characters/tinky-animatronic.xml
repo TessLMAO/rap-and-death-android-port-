@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Optimizado por Don gato FNF-->
+<TextureAtlas imagePath="tinky-animatronic.png">
+  <SubTexture name="Tinkyanimatronic_Down0001" x="0" y="0"  width="705" height="493" frameX="-0" frameY="-21" frameWidth="705" frameHeight="493"/>
+  <SubTexture name="Tinkyanimatronic_Down0002" x="705" y="0"  width="692" height="500" frameX="-13" frameY="-14" frameWidth="692" frameHeight="500"/>
+  <SubTexture name="Tinkyanimatronic_Down0003" x="1397" y="0"  width="679" height="514" frameX="-26" frameY="-0" frameWidth="679" frameHeight="514"/>
+  
+  <SubTexture name="Tinkyanimatronic_Right0001" x="2076" y="0"  width="691" height="677" frameX="-0" frameY="-24" frameWidth="691" frameHeight="677"/>
+  <SubTexture name="Tinkyanimatronic_Right0002" x="2663" y="683"  width="635" height="699" frameX="-0" frameY="-2" frameWidth="635" frameHeight="699"/>
+  <SubTexture name="Tinkyanimatronic_Right0003" x="0" y="1179"  width="643" height="701" frameX="-0" frameY="-0" frameWidth="643" frameHeight="701"/>
+  
+  <SubTexture name="Tinkyanimatronic_Idle0000" x="2767" y="0"  width="644" height="683" frameX="-0" frameY="-17" frameWidth="644" frameHeight="683"/>
+  <SubTexture name="Tinkyanimatronic_Idle0001" x="0" y="493"  width="654" height="686" frameX="-0" frameY="-14" frameWidth="654" frameHeight="686"/>
+  <SubTexture name="Tinkyanimatronic_Idle0002" x="654" y="500"  width="663" height="691" frameX="-0" frameY="-9" frameWidth="663" frameHeight="691"/>
+  <SubTexture name="Tinkyanimatronic_Idle0003" x="1317" y="514"  width="672" height="694" frameX="-0" frameY="-6" frameWidth="672" frameHeight="694"/>
+  <SubTexture name="Tinkyanimatronic_Idle0004" x="643" y="1191"  width="674" height="700" frameX="-0" frameY="-0" frameWidth="674" frameHeight="700"/>
+  <SubTexture name="Tinkyanimatronic_Idle0005" x="1989" y="677"  width="674" height="697" frameX="-0" frameY="-3" frameWidth="674" frameHeight="697"/>
+ 
+ <SubTexture name="Tinkyanimatronic_Up0000" x="1484" y="2102"  width="696" height="760" frameX="-0" frameY="-0" frameWidth="696" frameHeight="760"/>
+ <SubTexture name="Tinkyanimatronic_Up0001" x="2770" y="1382"  width="677" height="737" frameX="-19" frameY="-23" frameWidth="677" frameHeight="737"/>
+ <SubTexture name="Tinkyanimatronic_Up0002" x="1317" y="1208"  width="664" height="731" frameX="-32" frameY="-29" frameWidth="664" frameHeight="731"/>
+  
+  <SubTexture name="Tinkyanimatronic_Left0001" x="1981" y="1382"  width="789" height="720" frameX="-0" frameY="-0" frameWidth="789" frameHeight="720"/>
+  <SubTexture name="Tinkyanimatronic_Left0002" x="0" y="1891"  width="744" height="720" frameX="-45" frameY="-0" frameWidth="744" frameHeight="720"/>
+  <SubTexture name="Tinkyanimatronic_Left0003" x="744" y="1939"  width="740" height="720" frameX="-49" frameY="-0" frameWidth="740" frameHeight="720"/>
+</TextureAtlas>

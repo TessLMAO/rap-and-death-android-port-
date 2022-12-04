@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Optimizado por Don gato FNF-->
+ <TextureAtlas imagePath="tinky-animatronic-dark.png">
+  <SubTexture name="Tinkyanimatronic_Left0001" x="0" y="0"  width="790" height="721" frameX="-0" frameY="-0" frameWidth="789" frameHeight="720"/>
+  <SubTexture name="Tinkyanimatronic_Up0001" x="0" y="721"  width="696" height="760" frameX="-0" frameY="-0" frameWidth="696" frameHeight="760"/>
+  <SubTexture name="Tinkyanimatronic_Right0001" x="696" y="721"  width="691" height="677" frameX="-0" frameY="-24" frameWidth="691" frameHeight="677"/>
+  <SubTexture name="Tinkyanimatronic_Idle0001" x="790" y="0"  width="644" height="683" frameX="-0" frameY="-17" frameWidth="644" frameHeight="683"/>
+  <SubTexture name="Tinkyanimatronic_Down0001" x="696" y="1398"  width="705" height="493" frameX="-0" frameY="-24" frameWidth="691" frameHeight="677"/>
+</TextureAtlas>
