@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="el fondo de los renacidosxdxd.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- SPRITE OPTIMIZED BY ELNUBI 123 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ola instancia 10000" x="0" y="0" width="1135" height="752" frameX="-13" frameY="0" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10001" x="0" y="0" width="1135" height="752" frameX="-13" frameY="0" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10002" x="0" y="752" width="1137" height="752" frameX="-12" frameY="-1" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10003" x="0" y="752" width="1137" height="752" frameX="-12" frameY="-1" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10004" x="1135" y="0" width="1155" height="717" frameX="-3" frameY="-36" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10005" x="1135" y="0" width="1155" height="717" frameX="-3" frameY="-36" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10006" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10007" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10008" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10009" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10010" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10011" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10012" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+	<SubTexture name="ola instancia 10013" x="1137" y="717" width="1162" height="714" frameX="0" frameY="-39" frameWidth="1162" frameHeight="753"/>
+</TextureAtlas>

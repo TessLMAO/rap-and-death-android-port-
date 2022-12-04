@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="el fondo de los renacidsxdxd.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="adios instancia 10000" x="0" y="0" width="845" height="651" frameX="-15" frameY="0" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10001" x="0" y="0" width="845" height="651" frameX="-15" frameY="0" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10002" x="845" y="0" width="845" height="650" frameX="-15" frameY="-1" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10003" x="845" y="0" width="845" height="650" frameX="-15" frameY="-1" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10004" x="0" y="651" width="865" height="637" frameX="-5" frameY="-14" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10005" x="0" y="651" width="865" height="637" frameX="-5" frameY="-14" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10006" x="865" y="651" width="874" height="636" frameX="0" frameY="-15" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10007" x="865" y="651" width="874" height="636" frameX="0" frameY="-15" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10008" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10009" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10010" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10011" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10012" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+	<SubTexture name="adios instancia 10013" x="0" y="1288" width="871" height="640" frameX="-2" frameY="-11" frameWidth="874" frameHeight="651"/>
+</TextureAtlas>
