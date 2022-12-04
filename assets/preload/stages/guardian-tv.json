@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				710,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Guardian_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				870,
+				579
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Guardian_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				810,
+				540
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Guardian_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				780,
+				670
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Guardian_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				770,
+				610
+			],
+			"anim": "Oh no",
+			"fps": 24,
+			"name": "Oh no",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				782,
+				620
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Guardian_idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				770,
+				610
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Oh no",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Guardian",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "guardian",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		134,
+		134
+	],
+	"camera_position": [
+		-90,
+		-75
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
